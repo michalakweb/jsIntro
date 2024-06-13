@@ -1,0 +1,19 @@
+#clickableElement {
+	padding: 20px;
+	background-color: lightblue;
+	text-align: center;
+	cursor: pointer;
+	margin: 20px;
+}
+
+#targetElement {
+	padding: 20px;
+	background-color: lightcoral;
+	text-align: center;
+	margin: 20px;
+	display: none;
+}
+
+body {
+	height: 2000px;
+}
